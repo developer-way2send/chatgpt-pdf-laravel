@@ -1,2 +1,2 @@
-<h1>Summary</h1>
+<h1>OutPut</h1>
 <p>{{ $summary }}</p>
